@@ -1,16 +1,16 @@
 #EXTM3U thanh51
 
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]THVL1 Vĩnh Long 1
+#EXTINF:0,[COLOR cyan]THVL1[/COLOR] Vĩnh Long 1
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22THVL1%20V%C4%A9nh%20Long%201%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-thvl1-truyen-hinh-vinh-long-1-899.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]THVL2 Vĩnh Long 2
+#EXTINF:0,[COLOR cyan]THVL2[/COLOR] Vĩnh Long 2
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22THVL2%20V%C4%A9nh%20Long%202%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-thvl2-truyen-hinh-vinh-long-2-52406.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTV7
+#EXTINF:0,[COLOR cyan]HTV7-SD[/COLOR] HCM kênh 7 SD
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTV7%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv7-sd-10036.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTV7 HD
+#EXTINF:0,[COLOR cyan]HTV7-HD[/COLOR] HCM kênh 7 HD
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTV7%20HD%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv7-hd-256.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTV9
+#EXTINF:0,[COLOR cyan]HTV9-SD[/COLOR] HCM kênh 9 SD
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTV9%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv9-sd-10037.html%22%7D
-#EXTINF:0,[COLOR cyan]HPlus[/COLOR]HTV9 HD
+#EXTINF:0,[COLOR cyan]HTV9-HD[/COLOR] HCM kênh 9 HD
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22HTV9%20HD%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-htv9-hd-2667.html%22%7D
 
 #EXTINF:0,[COLOR cyan]HPlus[/COLOR]VTV1
