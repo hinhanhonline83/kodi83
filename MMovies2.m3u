@@ -1,6 +1,6 @@
 #EXTM3U MMovies
 
-#EXTINF:-1 group-title="Direct link",YTTV
+#EXTINF:-1 group-title="YTTV",Truyền hình Y Tế
 http://210.211.108.67:1935/hytcc/hytcc.stream/playlist.m3u8
 
 #EXTINF:0,[COLOR cyan]THVL1[/COLOR] Vĩnh Long 1
