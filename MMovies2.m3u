@@ -1,4 +1,4 @@
-#EXTM3U thanh51
+#EXTM3U MMovies
 
 #EXTINF:0,[COLOR cyan]THVL1[/COLOR] Vĩnh Long 1
 plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22THVL1%20V%C4%A9nh%20Long%201%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-thvl1-truyen-hinh-vinh-long-1-899.html%22%7D
