@@ -3,11 +3,6 @@
 #EXTINF:-1 group-title="SỨC KHỎE" tvg-logo="https://yt3.ggpht.com/-0X5K_vcj54k/AAAAAAAAAAI/AAAAAAAAAAA/-sFsqOib2ss/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",Truyền hình Y Tế
 http://210.211.108.67:1935/hytcc/hytcc.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="VN" tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/06/05/730410-THVL1.png",Vĩnh Long 1
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22THVL1%20V%C4%A9nh%20Long%201%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-thvl1-truyen-hinh-vinh-long-1-899.html%22%7D
-#EXTINF:-1 group-title="VN" tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/06/05/213025-THVL2a.png",Vĩnh Long 2
-plugin://plugin.video.kodi4vn.hplus.vn/play/%7B%22title%22%3A%22THVL2%20V%C4%A9nh%20Long%202%20%28HPlus%29%22%2C%22url%22%3A%22http%3A%2F%2Fhplus.com.vn%2Fxem-kenh-thvl2-truyen-hinh-vinh-long-2-52406.html%22%7D
-
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="http://www.viettv24.com/main/images/rangdong_logo.jpg",101 - Rạng Đông TV (Hải ngoại)
 http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/rangdong/playlist.m3u8&u=guest
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="http://www.viettv24.com/main/images/iSaigon_logo.jpg",102 - iSaiGon (Hải ngoại)
