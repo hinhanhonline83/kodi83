@@ -32,3 +32,50 @@ http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/strea
 http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/vmtt/playlist.m3u8&u=guest
 #EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="http://www.viettv24.com/main/images/skcd.jpg",118 - Sân Khấu & Cuộc Đời (Hải ngoại)
 http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/cailuong/playlist.m3u8&u=guest
+
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/vietglobal.png",VGM TV (UNOIPTV-109)
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu%2BrLZM7aT1Un
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/Film24h.jpg",Film 24h (UNOIPTV-107)
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu0f9C4l86Hqm
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/VANTV2.png",VANTV (UNOIPTV-102)
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu1omi7Bv0Hsp
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/cosmotv.png",CosmoTV (UNOIPTV-101)
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu1sOng5kMYdU
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/bolero.png",Bolero (UNOIPTV-112)
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu2N2SIB4yGcw
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/VIETV_FLORIDA.jpg",VIETV Florida (UNOIPTV-119)
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu3d%2BEcRxskCj
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/set03.png",SET (UNOIPTV-106)
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu4hKB5uXmSFm
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/quehuong1.png",Quê Hương TV (UNOIPTV-103)
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu5U30oydMmrs
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/VIETV_CANADA.jpg",VIETV Canada (UNOIPTV-111)
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu6o6WzI7QWZY
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/VIETV_LOS_ANGELES.jpg",VIETV Los Angeles (UNOIPTV-131)
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu6TfO0D%2FS8QI
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/VIETV_HOUSTON.jpg",VIETV Houston (UNOIPTV-125)
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu77li16%2B5lMH
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/Vlife_1.jpg",VLife (UNOIPTV-108)
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu7UBHqOmukag
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/vinashop.png",VinaShop (UNOIPTV-110)
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu7Y9QkuzvR8k
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/Vnews.jpg",Vnews (UNOIPTV-100)
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwu9uTovzKkHwc
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/Nhacviet0907.jpg",Nhạc VIỆT (UNOIPTV-114)
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwuwyzdvMx8KCq
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/VIETV1.jpg",VIETV-Nation (UNOIPTV-199)
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwuxgCYjQISaCZ
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/VIETV_SAN_JOSE.jpg",VIETV San Jose (UNOIPTV-141)
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwuzeHeiLSRpP%2B
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/VIETV_DALLAS.png",VIETV Dallas (UNOIPTV-122)
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwuzFABwfy1iVB
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/vietv-northeast.jpg",VIETV Northeast (UNOIPTV-113)
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb04ayU908vwuzRcsmQps01F
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/Tin_Lanh.jpg",Tin Lành TV (UNOIPTV-91)
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb3AG5HUO5c%2FwirE4ADDI%2Fms
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/Schedule_TV.jpg",Schedule (UNOIPTV-99)
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb3AG5HUO5c%2FwrBUTcumfiSF
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/catholic.png",CTV (UNOIPTV-94)
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb3AG5HUO5c%2Fwtav6MBYPXaY
+#EXTINF:-1 group-title="HẢI NGOẠI" tvg-logo="http://ims.v247tv.com/upload/images/channels/logoes/phatgiao.png",Phật Giáo (UNOIPTV-92)
+http://localhost:5000/play.m3u8?url=uno-DUnEMQ52bb3AG5HUO5c%2FwtZn4HigOpU7
